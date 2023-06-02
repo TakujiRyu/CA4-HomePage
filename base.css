@@ -214,7 +214,7 @@ section {
 .title img {
     position: relative;
     top: -85%;
-    right: 4%;
+    right: 2.5%;
     width: 23.5%;
     height: auto;
 }
@@ -234,7 +234,7 @@ section {
 .button a img {
     position: relative;
     top: -122%;
-    left: 39.5%;
+    left: 40.5%;
     width: 15%;
     height: auto;
 }
@@ -627,7 +627,7 @@ ul {
     }
 
     .small-container {
-        height: 690px;
+        height: 730px;
     }
 
     .col-2 {
