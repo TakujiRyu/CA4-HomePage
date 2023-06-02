@@ -80,7 +80,7 @@ section {
 }
 
 .container1 {
-    background: url(images/clubLynx.png) no-repeat;
+    background: url(images/cover.png) no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -709,7 +709,7 @@ ul {
 
 @media only screen and (max-width: 426px) {
     body {
-        background: url(images/clubLynx.png);
+        background: url(images/cover.png);
     }
     
     section {
